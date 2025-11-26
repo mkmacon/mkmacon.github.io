@@ -1,6 +1,6 @@
-# mkmacon.github.io
-GitHub Landing page
-<h1>Hi, I'm Marcus! <br/>Network Management Student & Junior Python Developer</a></h1>
+<!--# mkmacon.github.io-->
+<!--GitHub Landing page-->
+<h1>Hi, I'm Marcus!<br/><small>Network Management Student & Junior Python Developer</small></h1> I’m an aspiring Network Technician and Developer building my corner of the digital world while sharing my journey into all things networking. My motto, “Life is a Team Sport!”, reflects my gratitude for those who’ve mentored me and my commitment to supporting others along the way.
 
 <h2> Networking Projects:</h2>
 
