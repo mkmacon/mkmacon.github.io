@@ -4,7 +4,7 @@
 **`Network Management Student & Junior Python Developer`**
 
 I’m an aspiring Network Technician and Developer building my corner of the digital world while sharing my journey into all things networking. My motto, “Life is a Team Sport!”, reflects my gratitude for those who’ve mentored me and my commitment to supporting others along the way.
-
+---
 ### 🧰 Languages & Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -13,7 +13,7 @@ I’m an aspiring Network Technician and Developer building my corner of the dig
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px; background-color:white; border-radius:4px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
+#
 
 ### Networking Projects:</h2>
 
